@@ -1,0 +1,49 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     944 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.254 seconds
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.859697 ms
+Platform assembly: C:\Users\Socks\Downloads\BanterHack\run_Data\Managed\Boo.Lang.dll (this message is harmless)
+approach
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+approach
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.103120 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1414.
+Total: 0.315141 ms (FindLiveObjects: 0.077879 ms CreateObjectMapping: 0.018111 ms MarkObjects: 0.206472 ms  DeleteObjects: 0.006037 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1654 -> priority: 1 
